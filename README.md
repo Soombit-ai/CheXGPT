@@ -1,5 +1,3 @@
-[![KakaoBrain](https://img.shields.io/badge/kakao-brain-ffcd00.svg)](http://kakaobrain.com/)
-
 # CheX-GPT
 This is an official inference code of **"CheX-GPT: Harnessing Large Language Models for Enhanced Chest X-ray Report Labeling"** [[arxiv]](https://arxiv.org/)
 
@@ -54,5 +52,5 @@ Download the model checkpoint from here [[link]](https://twg.kakaocdn.net/brainr
   - [Stanford Office of Technology Licensing](http://techfinder2.stanford.edu/technology_detail.php?ID=43869)
 
 ## Contact
-- Jawook Gu, [jawook.gu@kakaobrain.com](jawook.gu@kakaobrain.com)
-- Kihyun You, [ukihyun@kakaobrain.com](ukihyun@kakaobrain.com)  
+- Jawook Gu, [dean.jawook@soombit.ai](dean.jawook@soombit.ai)
+- Kihyun You, [kyle.kihyun@soombit.ai](kyle.kihyun@soombit.ai)
