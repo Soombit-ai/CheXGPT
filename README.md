@@ -52,5 +52,5 @@ Download the model checkpoint from here [[link]](https://twg.kakaocdn.net/brainr
   - [Stanford Office of Technology Licensing](http://techfinder2.stanford.edu/technology_detail.php?ID=43869)
 
 ## Contact
-- Jawook Gu, [dean.jawook@soombit.ai](dean.jawook@soombit.ai)
-- Kihyun You, [kyle.kihyun@soombit.ai](kyle.kihyun@soombit.ai)
+- Jawook Gu, [dean.jawook@soombit.ai](jawook.gu@soombit.ai)
+- Kihyun You, [kyle.kihyun@soombit.ai](kihyun.you@soombit.ai)
